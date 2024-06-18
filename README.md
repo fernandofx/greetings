@@ -1,4 +1,4 @@
-##Aplicacion de funciones de Saludo
+## Aplicacion de funciones de Saludo
 
-#Modo de Instalación:
+# Modo de Instalación:
 go get -u github.com/alexroel/greetings
